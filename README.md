@@ -1,3 +1,23 @@
+<div align="center">
+    
+# Desafio de Projeto Spring Data JPA
+    
+</div>
+
+  ### Neste desafio, foi projetada uma academia digital, ou melhor, um sistema para uma academia contendo:
+  - Matrícula do Aluno
+  - Avaliação do Aluno
+ 
+<div align="center">
+    
+  ### Desafio proposto pela Camila Cavalcante, através do Bootcamp Java Developer "Banco PAN" da plataforma da DIO.
+    
+</div>
+
+
+
+
+
 <h1>Conhecendo o Projeto Spring Data JPA na Prática </h1>
 <p> Sejam bem-vindos ao projeto de LAB <strong>Conhecendo o Projeto Spring Data JPA na Prática</strong> oferecido gratuitamente pela plataforma de cursos online <a href="https://dio.me/"><strong> Digital Innovation One</strong></a>.<br>
 
